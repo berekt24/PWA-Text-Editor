@@ -23,8 +23,8 @@ module.exports = () => {
         title: 'JATE',
       }),
       new InjectManifest({
-        swSrc: './src/sw.js',
-        swDest: 'service-worker.js',
+        swSrc: './src-sw.js',
+        swDest: 'src-sw.js',
       }),
       new WebpackPwaManifest({
         name: 'Just Another Text Editor',
