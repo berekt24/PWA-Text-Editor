@@ -20,6 +20,7 @@ This project's purpose is to build a text editor that runs in the browser. The a
 
   ## Screenshot
 
+![Screen Shot 2023-01-07 at 8 37 57 PM](https://user-images.githubusercontent.com/114173723/211176903-5fbd4c17-21fa-4cbd-9067-c3df3a616cdc.png)
 
   ## Questions
 Github: https://github.com/berekt24
